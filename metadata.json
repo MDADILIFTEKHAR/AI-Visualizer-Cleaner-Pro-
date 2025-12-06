@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI Visualizer & Cleaner Pro+",
+  "description": "A comprehensive data analysis platform featuring AI-powered cleaning, advanced pivot tables, interactive visualizations, and a smart assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
